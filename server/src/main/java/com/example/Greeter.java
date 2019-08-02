@@ -8,7 +8,7 @@ public class Greeter {
 
   }
 
-  /**
+ /**
 * @param someone name of personn
 * @return greeting string
 */
